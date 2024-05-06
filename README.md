@@ -1,1 +1,1 @@
-# la_affordable_housing_eval
+# Evaluating Affordable Housing Sites in the City of Los Angeles
