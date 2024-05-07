@@ -18,7 +18,7 @@ Data for this project was found through the LA City Open Data portal via the Los
 
 
 <p float="left">
-  <img src="docs/assets/distribution_map.png" width="300" />
+  <img src="docs/assets/distribution_map_2.png" width="300" />
   <img src="docs/assets/count_per_cd_map.png" width="300" /> 
   <img src="docs/assets/units_per_cd_map.png" width="300" />
 </p>
