@@ -5,6 +5,13 @@
 Data for this project was found through the LA City Open Data portal via the Los Angeles Housing Department ("LAHD") and contains information on all "affordable housing" projects in the city since 2003. For the purposes of this project, the term "affordable housing" means any housing project that received LAHD funding from any program, including the Affordable Housing Managed Pipeline, the Supportive Housing Program, the Affordabel Housing Bond Program, and the Proposition HHH Supportive Housing Loan Program.
 
 ## Data Exploration
+Summary Statistics:
+*Total completed projects: 505
+*Total units constructed citywide to date: 46,867
+*Total units in development: 5,209
+*Average units/project: 91
+*Average construction duration: 1.77 years
+
 ![Project Status by Council District](docs/assets/status_by_cd_white.png)
 
 ![Average Project Units by Council District](docs/assets/units_per_proj.png)
@@ -19,4 +26,4 @@ Data for this project was found through the LA City Open Data portal via the Los
 </p>
 
 ## Suitability Analysis
-### To evaluate the suitability of each affordable housing site
+### To evaluate the suitability of each affordable housing site an index was created using various environmental factors that might impact livability in the immediate area around each project. 
