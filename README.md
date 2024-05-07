@@ -21,8 +21,8 @@ Summary Statistics:
 ![](docs/assets/distribution_map_2.png)
 
 <p float="left">
-  <img src="docs/assets/count_per_cd_map.png" width="500" /> 
-  <img src="docs/assets/units_per_cd_map.png" width="500" />
+  <img src="docs/assets/count_per_cd_map.png" width="400" /> 
+  <img src="docs/assets/units_per_cd_map.png" width="400" />
 </p>
 
 ## Suitability Analysis
