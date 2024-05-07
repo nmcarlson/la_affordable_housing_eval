@@ -5,4 +5,10 @@
 ## Data Exploration
 ![Project Status by Council District](docs/assets/status_by_cd_white.png)
 
+
+
 ![Average Project Units by Council District](docs/assets/units_per_proj.png)
+
+
+
+![Units per Type by Council District](docs/assets/units_per_cd_by_type.png)
