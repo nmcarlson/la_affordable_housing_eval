@@ -26,8 +26,8 @@ Summary Statistics:
 ![](docs/assets/distribution_map_2.png)
 
 <p float="left">
-  <img src="docs/assets/count_per_cd_map.png" width="300" /> 
-  <img src="docs/assets/units_per_cd_map.png" width="300" />
+  <img src="docs/assets/count_per_cd_map.png" width="200" /> 
+  <img src="docs/assets/units_per_cd_map.png" width="200" />
 </p>
 
 Overall the majority of units have been completed in or near downtown and eastern LA, with a dearth of units observed in western LA and the San Fernando Valley. The total unit distribution roughly follows distribution of projects, but Council Distric 1 has generated the most units by way of denser developments. Council District 1 is located just west of downtown LA, and includes the Pico-Union and Westlake neighborhoods.
