@@ -6,11 +6,11 @@ Data for this project was found through the LA City Open Data portal via the Los
 
 ## Data Exploration
 Summary Statistics:
-*Total completed projects: 505
-*Total units constructed citywide to date: 46,867
-*Total units in development: 5,209
-*Average units/project: 91
-*Average construction duration: 1.77 years
+* Total completed projects: 505
+* Total units constructed citywide to date: 46,867
+* Total units in development: 5,209
+* Average units/project: 91
+* Average construction duration: 1.77 years
 
 ![Project Status by Council District](docs/assets/status_by_cd_white.png)
 
