@@ -47,7 +47,7 @@ Buffers for each project were reviewed against the factor layers to see which fa
 ![](docs/assets/suit_map.png)
 
 | Suitability Score | % of Total Projects |
-| :---------------: | ------------------: |
+| :---------------: | :------------------: |
 | 2                 | 1.8                 |
 | 1                 | 0.5                 |
 | 0                 | 25.3                |
