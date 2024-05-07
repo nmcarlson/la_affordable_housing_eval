@@ -7,20 +7,15 @@ Data for this project was found through the LA City Open Data portal via the Los
 ## Data Exploration
 ![Project Status by Council District](docs/assets/status_by_cd_white.png)
 
-
-
 ![Average Project Units by Council District](docs/assets/units_per_proj.png)
-
-
 
 ![Units per Type by Council District](docs/assets/units_per_cd_by_type.png)
 
-
+![](docs/assets/distribution_map_2.png)
 
 <p float="left">
-  <img src="docs/assets/distribution_map_2.png" width="300" />
-  <img src="docs/assets/count_per_cd_map.png" width="300" /> 
-  <img src="docs/assets/units_per_cd_map.png" width="300" />
+  <img src="docs/assets/count_per_cd_map.png" width="500" /> 
+  <img src="docs/assets/units_per_cd_map.png" width="500" />
 </p>
 
 ## Suitability Analysis
