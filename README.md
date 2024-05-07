@@ -16,7 +16,7 @@
 
 
 <p float="left">
-  <img src="docs/assets/distribution_map.png" width="100" />
-  <img src="docs/assets/count_by_cd_map.png" width="100" /> 
-  <img src="docs/assets/units_per_cd_map.png" width="100" />
+  <img src="docs/assets/distribution_map.png" width="500" />
+  <img src="docs/assets/count_by_cd_map.png" width="500" /> 
+  <img src="docs/assets/units_per_cd_map.png" width="500" />
 </p>
