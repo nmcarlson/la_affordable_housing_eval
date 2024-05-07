@@ -12,3 +12,11 @@
 
 
 ![Units per Type by Council District](docs/assets/units_per_cd_by_type.png)
+
+
+
+<p float="left">
+  <img src="docs/assets/distribution_map.png" width="100" />
+  <img src="docs/assets/count_by_cd_map.png" width="100" /> 
+  <img src="docs/assets/units_per_cd_map.png" width="100" />
+</p>
